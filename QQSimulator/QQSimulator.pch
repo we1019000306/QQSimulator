@@ -1,0 +1,19 @@
+//
+//  QQSimulator.pch
+//  QQSimulator
+//
+//  Created by Jackie Liu on 16/2/29.
+//  Copyright © 2016年 Jackie Liu. All rights reserved.
+//
+
+#ifndef QQSimulator_pch
+#define QQSimulator_pch
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Macros.h"
+
+
+#endif /* QQSimulator_pch */

@@ -1,1 +1,1 @@
-# QQSimulator
+模拟QQ联系人分组界面和消息界面
